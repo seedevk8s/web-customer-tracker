@@ -52,11 +52,15 @@
 					</tr>						
 													
 				</tbody>
-			</table>
-			
+			</table>		
 			
 		</form:form>
 		
+		<div style="clear: both;"></div>
+		
+		<p>
+			<a href="${pageContext.request.contextPath}/customer/list">Back to List</a>
+		</p>
 	</div>
 	
 </body>
